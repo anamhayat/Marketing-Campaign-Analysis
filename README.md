@@ -76,4 +76,12 @@ Regression analysis helps you answer questions like:
 ---
 
 
+✅ This statistical project include everything:
+⭐ Starting from a business problem and research question
+⭐ Helping a marketing agency to select best platform to run ad campaigns
+⭐ Analysing and Visualising data to compare campaigns performance
+⭐ A/B Testing to select the best ad campaign platform to run ads
+⭐ Regression Analysis to get the expected conversions
+⭐ Weekly and Monthly Analysis for better recommendation
+⭐ Presenting analysis with findings for a non tech person
 
